@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetSubsManager</string>
+    <string name="notif_channel_name">Subscription Alerts</string>
+    <string name="notif_channel_desc">Reminders when a subscription is about to expire</string>
+</resources>
